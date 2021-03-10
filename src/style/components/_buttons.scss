@@ -24,6 +24,7 @@
 /* Hero Style */
 .cta-btn--hero {
   background-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-width: 2px;
@@ -109,6 +110,7 @@
 
 .cta-btn--hero:disabled .cta-btn--hero[disabled] {
   background-image: none;
+  background-clip: none;
   -webkit-background-clip: none;
   -webkit-text-fill-color: #666666;
   border-image: none;

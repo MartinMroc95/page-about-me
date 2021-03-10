@@ -48,7 +48,7 @@ const About = () => {
       setValueOfWidth(350);
     }
     if (isSmallMobile) {
-      setValueOfWidth(250);
+      setValueOfWidth(280);
     }
   };
 

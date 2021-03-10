@@ -30,7 +30,7 @@ const Skills = () => {
           <Row>
             {skills.map((skill) => {
               return (
-                <Col key={skill.id} lg={3} sm={12}>
+                <Col key={skill.id} lg={3} md={4} sm={4} xs={6}>
                   <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={500} distance="30px">
                     {/* <ProgressBar variant="success" now={skill.power} label={`${skill.power}%`} /> */}
                     <a target="_blank" rel="noopener noreferrer" className="cta-btn cta-btn--hero" href={skill.url || '#'}>

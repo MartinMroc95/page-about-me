@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'Restaurant-template.png',
     title: 'Restaurant Web Template',
     info: 'Website designed to promote a restaurant. ',
-    info2: '',
+    info2: 'This website template is ready fo using. If you are interested in this web site, contact me.',
     url: 'https://restaurant-page-v1.netlify.app/',
     repo: '', // if no repo, the button will not show up
   },

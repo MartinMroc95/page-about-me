@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "My-portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "My Gatby portfolio",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": ""
   },
   "husky": {
     "hooks": {

@@ -3,7 +3,6 @@ import { Helmet } from 'react-helmet';
 import { headData } from '../mock/data';
 import App from '../components/App';
 import 'bootstrap/dist/css/bootstrap.min.css';
-/* import favicon from '../images/favicon.ico'; */
 import '../style/main.scss';
 
 export default () => {

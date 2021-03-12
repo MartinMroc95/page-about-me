@@ -2,8 +2,7 @@ import React, { useContext, useState, useEffect } from 'react';
 import Fade from 'react-reveal/Fade';
 import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
-import AboutImageDesktop from '../../images/profile2.jpg';
-/* import AboutImageMobile from '../../images/profile2-2.jpg'; */
+import AboutImageDesktop from '../../images/ProfilePhoto.jpg';
 import PortfolioContext from '../../context/context';
 import Resume from '../../images/Martin_Mroč_CV.pdf';
 import { Link } from 'react-scroll';
